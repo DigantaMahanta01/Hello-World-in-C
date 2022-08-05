@@ -1,2 +1,2 @@
-# Hello-World-in-C
-C programming of Hello World
+# Programming in C & C++
+
